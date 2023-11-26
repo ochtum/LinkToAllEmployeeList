@@ -32,6 +32,7 @@ clasp login
 YOUR_SCRIPT_ID<br>
 YOUR_ROOT_DIRECTORY<br>
 - index.js<br>
+
 The following sets out the information found in the Microsoft Entra Management Center.<br>
 YOUR_MICROSOFT-ENTRA_CLIENT_ID<br>
 YOUR_MICROSOFT-ENTRA_TENANT_ID<br>
